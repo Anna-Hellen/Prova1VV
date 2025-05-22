@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FatorialTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-05-22T00:16:29.532Z" hostname="ANNA" time="0.007">
+  <properties/>
+  <testcase name="testCalcularFatorial_positiveInput_oneIteration_shouldReturnCorrectFactorial()" classname="FatorialTest" time="0.002"/>
+  <testcase name="testCalcularFatorial_zeroInput_shouldReturnOne()" classname="FatorialTest" time="0.001"/>
+  <testcase name="testCalcularFatorial_positiveInput_multipleIterations_shouldReturnCorrectFactorial()" classname="FatorialTest" time="0.0"/>
+  <testcase name="testCalcularFatorial_negativeInput_shouldReturnError()" classname="FatorialTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

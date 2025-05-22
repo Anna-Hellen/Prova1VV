@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PalindromeCheckerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-05-22T00:16:29.540Z" hostname="ANNA" time="0.009">
+  <properties/>
+  <testcase name="testIsPalindrome_mixedCasePalindrome_shouldReturnFalse()" classname="PalindromeCheckerTest" time="0.002"/>
+  <testcase name="testIsPalindrome_singleCharacter_shouldReturnTrue()" classname="PalindromeCheckerTest" time="0.001"/>
+  <testcase name="testIsPalindrome_nullInput_shouldReturnFalse()" classname="PalindromeCheckerTest" time="0.0"/>
+  <testcase name="testIsPalindrome_nonPalindromeWithSimilarEnds_shouldReturnFalse()" classname="PalindromeCheckerTest" time="0.0"/>
+  <testcase name="testIsPalindrome_emptyString_shouldReturnTrue()" classname="PalindromeCheckerTest" time="0.0"/>
+  <testcase name="testIsPalindrome_simpleNonPalindrome_shouldReturnFalse()" classname="PalindromeCheckerTest" time="0.001"/>
+  <testcase name="testIsPalindrome_palindromeWithEvenLength_shouldReturnTrue()" classname="PalindromeCheckerTest" time="0.001"/>
+  <testcase name="testIsPalindrome_longerPalindrome_shouldReturnTrue()" classname="PalindromeCheckerTest" time="0.001"/>
+  <testcase name="testIsPalindrome_simplePalindrome_shouldReturnTrue()" classname="PalindromeCheckerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

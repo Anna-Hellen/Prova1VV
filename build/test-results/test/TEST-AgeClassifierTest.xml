@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AgeClassifierTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-05-22T00:16:29.501Z" hostname="ANNA" time="0.028">
+  <properties/>
+  <testcase name="testClassifyAge_largeAge_shouldReturnIdoso()" classname="AgeClassifierTest" time="0.017"/>
+  <testcase name="testClassifyAge_negativeAge_shouldReturnIdadeInvalida()" classname="AgeClassifierTest" time="0.001"/>
+  <testcase name="testClassifyAge_age17_shouldReturnMenorDeIdade()" classname="AgeClassifierTest" time="0.001"/>
+  <testcase name="testClassifyAge_age18_shouldReturnAdulto()" classname="AgeClassifierTest" time="0.0"/>
+  <testcase name="testClassifyAge_age65_shouldReturnIdoso()" classname="AgeClassifierTest" time="0.001"/>
+  <testcase name="testClassifyAge_age0_shouldReturnMenorDeIdade()" classname="AgeClassifierTest" time="0.001"/>
+  <testcase name="testClassifyAge_age64_shouldReturnAdulto()" classname="AgeClassifierTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
