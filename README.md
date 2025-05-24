@@ -46,15 +46,15 @@ testes-software-pratica/
 ### -> **Pré-requisitos:**
 
 
-*Java JDK 8 ou superior.
+* Java JDK 8 ou superior.
 
-*Gradle (se não quiser gerar o wrapper manualmente, certifique-se de que o Gradle Wrapper já esteja incluso no projeto).
+* Gradle (se não quiser gerar o wrapper manualmente, certifique-se de que o Gradle Wrapper já esteja incluso no projeto).
 
 
 ### -> **Como Executar os Testes:**
 
 
-*Utilizando o Gradle Wrapper navegue até o diretório do projeto
+* Utilizando o Gradle Wrapper navegue até o diretório do projeto
 
 * **Execute os testes:**
 
@@ -81,8 +81,7 @@ _bash
 
 * Caso os testes não executem conforme o esperado ou encontrem erros, **siga os passos abaixo:**
 
-**Gere o Gradle Wrapper (caso necessário):
-**
+**Gere o Gradle Wrapper (caso necessário):**
 
 _bash
 gradle wrapper_
