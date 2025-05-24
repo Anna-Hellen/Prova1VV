@@ -54,9 +54,7 @@ testes-software-pratica/
 ### -> **Como Executar os Testes:**
 
 
-*Utilizando o Gradle Wrapper navegue até o diretório do projeto:
-
-_cd testes-software-pratica_
+*Utilizando o Gradle Wrapper navegue até o diretório do projeto
 
 * **Execute os testes:**
 
@@ -82,11 +80,6 @@ _bash
 
 
 * Caso os testes não executem conforme o esperado ou encontrem erros, **siga os passos abaixo:**
-
-**Navegue para o diretório do projeto:**
-
-_bash
-cd C:\Prova1VV-main\testes-software-pratica_
 
 **Gere o Gradle Wrapper (caso necessário):
 **
@@ -121,7 +114,3 @@ _bash
 _bash
 gradle wrapper_
 
-* **Após a geração, certifique-se de estar no diretório correto:**
-
-_bash
-cd "c:\Prova1VV-main\testes-software-pratica"_
